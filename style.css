@@ -1,0 +1,38 @@
+body {
+    background: #f1f1f1;
+}
+
+#content {
+    /* background-image: url("http://vanbind.com/product_images/l/checkpresenters.jpg"); */
+    border: 1px solid grey;
+    width: 1000px;
+    height: 1000px;
+    margin: auto;
+}
+
+#header {
+    background-image: url("http://vanbind.com/product_images/l/checkpresenters.jpg");
+    text-align: center;
+    color: rgba(245, 245, 245, 0.795);
+    padding: 10px;
+}
+
+/* h1 {
+    margin-top: 0px;
+    padding-top: 20px;
+} */
+
+#info {
+    /* display: grid;
+    grid-template-columns:  1.3fr 2fr; */
+    margin: auto;
+    padding: 20px;
+}
+
+
+table, th, td {
+    text-align: center;
+    margin: 10px;
+    border: 1px solid #aaa;
+    border-collapse: collapse;
+}
